@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, World! I'm Vishal Bairagi</h1>
+<h1 align="center"> Hello, World! I'm Vishal Bairagi</h1>
 
 <p align="center">
   In the kingdom of code, I am the architect of logic, the sorcerer of syntax, and the explorer of infinite possibilities.<br>
