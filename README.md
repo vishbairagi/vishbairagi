@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, World! I'm Vishal Bairagi</h1>
 
-<!--
-**vishbairagi/vishbairagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  In the kingdom of code, I am the architect of logic, the sorcerer of syntax, and the explorer of infinite possibilities.<br>
+  <strong>A Software Developer</strong>, passionate about App Development, and learning new things.<br>
+  Array of interests: <strong>Cyber Security</strong>, and endless curiosity.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Learner of the new world!  
+📘 B.Tech in <strong>Computer Science Engineering</strong> from GECJ  
+🤓 Currently Improving <strong>Backend Development</strong>  
+💪 Always eager to <strong>Improve</strong> more  
+🌸 Make Projects in my free time  
+📚 dedicated learner, ❤️ to take on new <strong>challenges</strong>  
+🤝 I’m looking to <strong>collaborate</strong>  
+
+---
+
+### 🧿 Connect with me:
+<p align="left">
+  <a href="mailto:vishalba499@gmail.com"><img src="https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishal-bairagi-b9757a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
