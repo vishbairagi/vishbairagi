@@ -18,18 +18,41 @@
 
 ---
 
+<style>
+  .badge-container a {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+
+  .badge-container a:hover {
+    transform: scale(1.1) rotate(2deg);
+  }
+
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+  }
+
+  .badge-container a:hover img {
+    animation: pulse 0.6s infinite;
+  }
+</style>
+
 ### 🧿 Connect with me:
-<p align="left">
- <a href="mailto:vishalba499@gmail.com.com">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p class="badge-container" align="left">
+  <a href="mailto:vishalba499@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/vishal-bairagi-b9757a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
+  <a href="https://www.linkedin.com/in/vishal-bairagi-b9757a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 
 
