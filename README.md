@@ -18,11 +18,18 @@
 
 ---
 
-
 ### 🧿 Connect with me:
-[![Email](https://yourdomain.com/animated-email.gif)](mailto:vishalba499@gmail.com)
-[![LinkedIn](https://yourdomain.com/animated-linkedin.gif)](https://www.linkedin.com/in/vishal-bairagi-b9757a252)
+<p align="left">
+ <a href="mailto:vishalba499@gmail.com.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/vishal-bairagi-b9757a252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+</p>
 
 
 
