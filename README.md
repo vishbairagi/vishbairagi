@@ -48,9 +48,6 @@
   <a href="https://docs.oracle.com/en/java/" target="_blank" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   </a>
-  <a href="https://nodejs.org/en/docs" target="_blank" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  </a>
   <a href="https://devdocs.io/c/" target="_blank" title="C">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   </a>
