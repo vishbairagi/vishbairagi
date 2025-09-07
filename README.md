@@ -3,7 +3,7 @@
 <p align="center">
   In the kingdom of code, I am the architect of logic, the sorcerer of syntax, and the explorer of infinite possibilities.<br>
   <strong>A Software Developer</strong>, passionate about App Development, and learning new things.<br>
-  Array of interests: <strong>Cyber Security</strong>, and endless curiosity.
+  Array of interests: <strong>Machine Learning</strong>, and endless curiosity.
 </p>
 
 ---
